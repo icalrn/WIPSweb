@@ -20,12 +20,15 @@ class AppAsset extends AssetBundle
     public $css = [
         'css/site.css',
         'css/jquery.fullPage.css',
+        'css/main.css',
     ];
     public $js = [
         'js/jquery.fullPage.min.js',
+        'js/site.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',
         'yii\bootstrap\BootstrapAsset',
+        '\rmrevin\yii\fontawesome\AssetBundle',
     ];
 }
