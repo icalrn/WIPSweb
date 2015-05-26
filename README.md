@@ -1,3 +1,17 @@
+WIPS Creative Portofolio Project
+================================
+
+- Wildan Anky Putra
+- Faisal Rahman
+- Pandhu Hutomo Aditya
+- Saqib
+
+---
+Welcome! Please use this README.MD as a notice board.
+
+- **FullPage.js** has been added to frontend assets, can be found at `frontend/web/js` and `frontend/web/css`. Thanks to [AlvaroTrigo's FullPage.js](https://github.com/alvarotrigo/fullPage.js). Refer to [the documentation](https://github.com/alvarotrigo/fullPage.js#fullpagejs) for helps. **(Ical)**
+- Default database name is `wipscreative`. Can be adjusted at `common/config/main-local.php'. **(Ical)**
+
 Yii 2 Advanced Application Template
 ===================================
 
